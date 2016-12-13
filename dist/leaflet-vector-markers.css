@@ -12,6 +12,8 @@ Version: 0.0.6
   top: 0;
   display: block;
   text-align: center; }
+  .vector-marker svg {
+    position: static !important; }
   .vector-marker path {
     stroke: black;
     stroke-opacity: 0.4;
